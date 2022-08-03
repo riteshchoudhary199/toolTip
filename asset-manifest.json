@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tooltip/static/css/main.d02f8930.css",
+    "main.js": "/tooltip/static/js/main.99b6a064.js",
+    "index.html": "/tooltip/index.html",
+    "main.d02f8930.css.map": "/tooltip/static/css/main.d02f8930.css.map",
+    "main.99b6a064.js.map": "/tooltip/static/js/main.99b6a064.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d02f8930.css",
+    "static/js/main.99b6a064.js"
+  ]
+}
